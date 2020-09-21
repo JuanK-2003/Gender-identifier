@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589903975 source:c:\users\personal\desktop\programas carlitos\segunda fase de proyecto 1\main.cpp
+	<iostream>
+	<conio.h>
+	<cmath>
+	<locale>
+
